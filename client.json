@@ -1,8 +1,3 @@
 {
-  "clients":[
-    {"id": 1, "name": "Ana Rodrigos", "email": "AnaPediatria@gmail.com"},
-    {"id": 2, "name": "bethiana-Lilmendez", "email": "BeDomadora@gmail.com"},
-    {"id": 3, "name": "Thiago-Lifer", "email": "Rexmecanicos@gmail.com"}
-
-  ]
+  "clients": []
 }
